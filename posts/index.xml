@@ -6,7 +6,17 @@
     <description>Recent content in Posts on DevOpsBlog.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Thu, 25 Nov 2021 13:50:35 +0100</lastBuildDate><atom:link href="http://devopsblog.pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 16:47:02 +0100</lastBuildDate><atom:link href="http://devopsblog.pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Powershell Test Path</title>
+      <link>http://devopsblog.pl/posts/powershell-test-path/</link>
+      <pubDate>Thu, 25 Nov 2021 16:47:02 +0100</pubDate>
+      
+      <guid>http://devopsblog.pl/posts/powershell-test-path/</guid>
+      <description>Testowanie czy plik istnieje używając powershell jest całkiem proste. Użyjmy do tego cmdlet test-path
+PS C:\git\devopsblog.pl&amp;gt; Test-Path .\config.toml True </description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>http://devopsblog.pl/posts/hello-world/</link>
