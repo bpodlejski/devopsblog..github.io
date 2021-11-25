@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevOpsBlog.pl</title>
+    <link>http://devopsblog.pl/posts/</link>
+    <description>Recent content in Posts on DevOpsBlog.pl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Thu, 25 Nov 2021 13:50:35 +0100</lastBuildDate><atom:link href="http://devopsblog.pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://devopsblog.pl/posts/hello-world/</link>
+      <pubDate>Thu, 25 Nov 2021 13:50:35 +0100</pubDate>
+      
+      <guid>http://devopsblog.pl/posts/hello-world/</guid>
+      <description>#Hello World!
+Jak to zawsze bywa - testowy post na nowym blogu ;)</description>
+    </item>
+    
+  </channel>
+</rss>
